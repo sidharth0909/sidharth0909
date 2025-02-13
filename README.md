@@ -1,4 +1,4 @@
-![Header](https://your-banner-image-url.com)
+![Header]([https://your-banner-image-url.com](https://media.licdn.com/dms/image/v2/D4D35AQGCDNbPIRvCKg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1722438502395?e=1740070800&v=beta&t=vqH1W5YRpEKDE2kC17ud_zd-ujkVCYjeZrt6YcJqpXQ))
 
 # 🚀 Sidharth Saholiya | Data Scientist & AI Enthusiast  
 **Passionate about Data Science, AI, and solving real-world problems with Machine Learning.**  
@@ -30,6 +30,11 @@
 ---
 
 ## 🚀 Featured Projects
+
+### **3️⃣ AI-powered Disaster Management System**
+📌 **Built a CNN-based classification model for disaster response & resource allocation.**  
+🔗 **[GitHub Repo](https://github.com/sidharthsaholiya/disaster-management)**
+
 ### **1️⃣ Financial Market News Sentiment Analysis**
 📌 **Predicts market trends by analyzing news sentiment using NLP & ML.**  
 🔗 **[GitHub Repo](https://github.com/sidharthsaholiya/financial-sentiment-analysis)**
@@ -37,18 +42,6 @@
 ### **2️⃣ Pneumonia Detection Using Deep Learning**
 📌 **Developed a CNN model for pneumonia classification from X-ray images.**  
 🔗 **[GitHub Repo](https://github.com/sidharthsaholiya/pneumonia-detection)**
-
-### **3️⃣ AI-powered Disaster Management System**
-📌 **Built a CNN-based classification model for disaster response & resource allocation.**  
-🔗 **[GitHub Repo](https://github.com/sidharthsaholiya/disaster-management)**
-
----
-
-## 📈 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidharthsaholiya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthsaholiya&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidharthsaholiya&theme=radical)
 
 ---
 
