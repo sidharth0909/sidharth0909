@@ -3,7 +3,7 @@
   <h1>Hi, I'm Sidharth Saholiya! 🚀</h1>
 </div>
 
-# 🚀 Sidharth Saholiya | Data Scientist & AI Enthusiast  
+# Data Scientist & AI Enthusiast  
 **Passionate about Data Science, AI, and solving real-world problems with Machine Learning.**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sidharthsaholiya) 
