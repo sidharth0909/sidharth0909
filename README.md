@@ -1,4 +1,7 @@
-![Header](https://media.licdn.com/dms/image/v2/D5603AQEGE4w17DttTQ/profile-displayphoto-shrink_400_400/B56ZUAGlQVHEAg-/0/1739463481229?e=1744848000&v=beta&t=LwCwzVjnHwwbKkNw3dZ2OYOJhyLs0GTUriSCWtIeywQ)
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEGE4w17DttTQ/profile-displayphoto-shrink_400_400/B56ZUAGlQVHEAg-/0/1739463481229?e=1744848000&v=beta&t=LwCwzVjnHwwbKkNw3dZ2OYOJhyLs0GTUriSCWtIeywQ" width="200" height="200">
+  <h1>Hi, I'm Sidharth Saholiya! 🚀</h1>
+</div>
 
 # 🚀 Sidharth Saholiya | Data Scientist & AI Enthusiast  
 **Passionate about Data Science, AI, and solving real-world problems with Machine Learning.**  
