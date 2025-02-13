@@ -49,10 +49,10 @@
 ---
 
 ## 📬 Let's Connect
-💼 **Portfolio:** [datascienceportfolio.io/sidharth](https://datascienceportfolio.io/sidharth)  
+💼 **Portfolio:** [datascienceportfolio.io/sidharth](https://www.datascienceportfol.io/sidharthsaholiya)  
 📧 **Email:** sidharthsaholiya@gmail.com  
 💬 **LinkedIn:** [linkedin.com/in/sidharthsaholiya](https://www.linkedin.com/in/sidharthsaholiya)  
-🌍 **GitHub:** [github.com/sidharthsaholiya](https://github.com/sidharthsaholiya)  
+🌍 **GitHub:** [github.com/sidharthsaholiya](https://github.com/sidharth0909)  
 
 ---
 
