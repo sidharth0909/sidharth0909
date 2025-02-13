@@ -7,7 +7,7 @@
 **Passionate about Data Science, AI, and solving real-world problems with Machine Learning.**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sidharthsaholiya) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&style=for-the-badge)](https://datascienceportfolio.io/sidharth)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&style=for-the-badge)](https://www.datascienceportfol.io/sidharthsaholiya)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:sidharthsaholiya@gmail.com)
 
 ---
