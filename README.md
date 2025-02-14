@@ -36,15 +36,15 @@
 
 ### **3️⃣ AI-powered Disaster Management System**
 📌 **Built a CNN-based classification model for disaster response & resource allocation.**  
-🔗 **[GitHub Repo](https://github.com/sidharthsaholiya/disaster-management)**
+🔗 **[GitHub Repo](https://github.com/sidharth0909/CNN)**
 
 ### **1️⃣ Financial Market News Sentiment Analysis**
 📌 **Predicts market trends by analyzing news sentiment using NLP & ML.**  
-🔗 **[GitHub Repo](https://github.com/sidharthsaholiya/financial-sentiment-analysis)**
+🔗 **[GitHub Repo](https://github.com/sidharth0909/Financial-Market-News-Sentiment-Analysis)**
 
 ### **2️⃣ Pneumonia Detection Using Deep Learning**
 📌 **Developed a CNN model for pneumonia classification from X-ray images.**  
-🔗 **[GitHub Repo](https://github.com/sidharthsaholiya/pneumonia-detection)**
+🔗 **[GitHub Repo](https://github.com/sidharth0909/Pneumonia-Detection-Using-Deep-Learning)**
 
 ---
 
