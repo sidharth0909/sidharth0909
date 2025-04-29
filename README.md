@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQEGE4w17DttTQ/profile-displayphoto-shrink_400_400/B56ZUAGlQVHEAg-/0/1739463481229?e=1744848000&v=beta&t=LwCwzVjnHwwbKkNw3dZ2OYOJhyLs0GTUriSCWtIeywQ" width="200" height="200">
+  <img src="https://drive.google.com/drive/u/0/folders/1nZnj04d8y0QFC658JCJ9Yimfb-2QQoZZ" width="200" height="200">
   <h1>Hi, I'm Sidharth Saholiya! 🚀</h1>
 </div>
 
