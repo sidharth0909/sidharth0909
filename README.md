@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/drive/u/0/folders/1nZnj04d8y0QFC658JCJ9Yimfb-2QQoZZ" width="200" height="200">
+  <img src="https://github.com/sidharth0909/sidharth0909/blob/main/Sidharth.jpg" width="200" height="200">
   <h1>Hi, I'm Sidharth Saholiya! 🚀</h1>
 </div>
 
