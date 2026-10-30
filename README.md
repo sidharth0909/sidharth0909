@@ -1,38 +1,83 @@
-<!-- Custom banner: keep assets/profile-banner.png alongside this README. -->
+ <!-- Custom banner: keep assets/profile-banner.png alongside this README. -->
 <div align="center">
-  <img src="https://github.com/sidharth0909/sidharth0909/blob/main/R0007136.JPG" width="75%" alt="Sidharth Saholiya — The AI × Biology Lab. AI Engineering · Agentic AI · Bioinformatics." />  <h3>Hey, I'm Sidharth</h3>
-  <p>I build AI applications, experiment with agents, and investigate biology one cell at a time.</p>  <a href="https://www.linkedin.com/in/sidharthsaholiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:sidharthsaholiya@gmail.com"><img src="https://img.shields.io/badge/Email-183343?style=for-the-badge&amp;logo=gmail&amp;logoColor=62EAD5" alt="Email Sidharth" /></a>
-<a href="https://github.com/sidharth0909?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-212D45?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+  <img src="https://github.com/sidharth0909/sidharth0909/blob/main/R0007136.JPG" width="75%" alt="Sidharth Saholiya — The AI × Biology Lab. AI Engineering · Agentic AI · Bioinformatics." />
+
+  <h3>Hey, I'm Sidharth</h3>
+  <p>I build AI applications, experiment with agents, and investigate biology one cell at a time.</p>
+
+  <a href="https://www.linkedin.com/in/sidharthsaholiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sidharthsaholiya@gmail.com"><img src="https://img.shields.io/badge/Email-183343?style=for-the-badge&amp;logo=gmail&amp;logoColor=62EAD5" alt="Email Sidharth" /></a>
+  <a href="https://github.com/sidharth0909?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-212D45?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+
   <p><a href="#01--meet-the-builder">About</a> · <a href="#02--on-the-lab-bench">Current work</a> · <a href="#03--the-build-shelf">Projects</a> · <a href="#04--my-toolkit">Toolkit</a></p>
-</div>01 / Meet the builder
-I'm pursuing an M.S. in Data Science at the University at Buffalo, SUNY, graduating in May 2027, with a B.E. in Information Technology.
+</div>
 
-My work connects three interests: AI engineering, agentic systems, and bioinformatics. I enjoy turning models into usable applications, giving LLMs tools and workflows, and using single-cell data to ask better questions about disease.
-- Engineering: LLM applications, RAG, agent orchestration, and real-time voice interfaces.
-- Research: single-cell RNA sequencing, cell-type annotation, and immune dysregulation in skin.
-- What keeps me curious: understanding why a system made a decision—or why a cell expresses a particular gene.
-02 / On the lab bench
-A voice agent that can do more than talk
-In development · Agentic AI + real-time audio
+---
 
-I'm building a telephone voice-agent prototype that connects Twilio Media Streams to Deepgram's Voice Agent API through an asynchronous Python + WebSocket bridge.
+## 01 / Meet the builder
+
+<img src="./assets/meet-the-builder.svg" width="100%" alt="My background: AI engineering, agentic systems, and bioinformatics at the University at Buffalo." />
+
+<details>
+<summary><b>More about my background</b></summary>
+
+I'm pursuing an **M.S. in Data Science at the University at Buffalo, SUNY**, graduating in **May 2027**, with a B.E. in Information Technology.
+
+My work connects three interests: **AI engineering**, **agentic systems**, and **bioinformatics**. I enjoy turning models into usable applications, giving LLMs tools and workflows, and using single-cell data to ask better questions about disease.
+
+- **Engineering:** LLM applications, RAG, agent orchestration, and real-time voice interfaces.
+- **Research:** single-cell RNA sequencing, cell-type annotation, and immune dysregulation in skin.
+- **What keeps me curious:** understanding why a system made a decision—or why a cell expresses a particular gene.
+
+</details>
+
+## 02 / On the lab bench
+
+### A voice agent that can do more than talk
+
+<img src="./assets/voice-agent-workflow.svg" width="100%" alt="Caller and Twilio exchange audio with an asynchronous Python bridge and Deepgram Voice Agent; Python handles prototype pharmacy tools." />
+
+<details>
+<summary><b>Voice-agent details and working stack</b></summary>
+
+**In development · Agentic AI + real-time audio**
+
+I'm building a telephone voice-agent prototype that connects **Twilio Media Streams** to **Deepgram's Voice Agent API** through an asynchronous **Python + WebSocket** bridge.
+
 - Combines speech recognition, LLM reasoning, and speech synthesis in a conversational workflow.
 - Connects function calls to prototype pharmacy tools for drug information, order placement, and order lookup.
 - My current focus: call stability, two-way audio streaming, and handling interruptions naturally.
-Working stack: Python asyncio WebSockets Twilio Deepgram ngrok
-<!-- Add the voice-agent repository link here when a public repository is available. -->Mapping immune dysregulation, one cell at a time
-Ongoing research · Single-cell bioinformatics
 
-Research theme: Characterizing cellular phenotypes associated with localized and systemic immune dysregulation.
+**Working stack:** `Python` `asyncio` `WebSockets` `Twilio` `Deepgram` `ngrok`
 
-I'm reanalyzing public skin scRNA-seq datasets to investigate how cell populations and cell states differ across healthy skin, keloid, and systemic sclerosis, while exploring lupus datasets as an additional disease context.
+<!-- Add the voice-agent repository link here when a public repository is available. -->
+
+</details>
+
+### Mapping immune dysregulation, one cell at a time
+
+<img src="./assets/single-cell-research.svg" width="100%" alt="Skin scRNA-seq workflow: quality control, Seurat and Harmony integration, subtype annotation, and published marker comparisons." />
+
+<details>
+<summary><b>Research questions, methods, and stack</b></summary>
+
+**Ongoing research · Single-cell bioinformatics**
+
+**Research theme:** *Characterizing cellular phenotypes associated with localized and systemic immune dysregulation.*
+
+I'm reanalyzing public skin scRNA-seq datasets to investigate how cell populations and cell states differ across **healthy skin, keloid, and systemic sclerosis**, while exploring **lupus** datasets as an additional disease context.
+
 - Reproducing published workflows and examining how QC, integration, and clustering choices affect the results.
-- Using Seurat and Harmony for analysis, batch correction, clustering, and visualization.
-- Investigating keratinocyte, fibroblast, and endothelial subtypes through differential expression and marker-based annotation.
+- Using **Seurat and Harmony** for analysis, batch correction, clustering, and visualization.
+- Investigating **keratinocyte, fibroblast, and endothelial subtypes** through differential expression and marker-based annotation.
 - Comparing my marker results with published supplementary data to assess annotation consistency and investigate unexpected expression.
-Research stack: R Seurat Harmony scRNA-seq Differential expression Marker validation
-03 / The build shelf
+
+**Research stack:** `R` `Seurat` `Harmony` `scRNA-seq` `Differential expression` `Marker validation`
+
+</details>
+
+## 03 / The build shelf
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -66,19 +111,29 @@ Research stack: R Seurat Harmony scRNA-seq Differential expression Marker valida
 <a href="https://github.com/sidharth0909/FitX"><strong>Explore AI in motion →</strong></a>
 </td>
 </tr>
-</table><details>
-<summary><b>Earlier experiments & foundations</b></summary>- AI-powered Disaster Management — computer vision for disaster image classification and infrastructure vulnerability assessment.
-- LangGraph Chatbot — chatbot experiments with a Python backend and Streamlit interface.
-- Financial News Sentiment Analysis — NLP experiments with financial news.
-</details>04 / My toolkit
-Workbench	Tools I use
-AI & agents	Python · LangGraph · LangChain · RAG · LLM APIs
-Voice & streaming	Twilio · Deepgram · WebSockets · asyncio
-Machine learning	PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
-Bioinformatics	R · Seurat · Harmony · scRNA-seq analysis
-Applications & data	FastAPI · Flask · React · SQL · Supabase
-Development	Git · GitHub · Docker · Jupyter
+</table>
 
+<details>
+<summary><b>Earlier experiments & foundations</b></summary>
+
+- [AI-powered Disaster Management](https://github.com/sidharth0909/CNN) — computer vision for disaster image classification and infrastructure vulnerability assessment.
+- [LangGraph Chatbot](https://github.com/sidharth0909/Chatbot_LangGraph) — chatbot experiments with a Python backend and Streamlit interface.
+- [Financial News Sentiment Analysis](https://github.com/sidharth0909/Financial-Market-News-Sentiment-Analysis) — NLP experiments with financial news.
+
+</details>
+
+## 04 / My toolkit
+
+| Workbench | Tools I use |
+| :--- | :--- |
+| **AI & agents** | Python · LangGraph · LangChain · RAG · LLM APIs |
+| **Voice & streaming** | Twilio · Deepgram · WebSockets · asyncio |
+| **Machine learning** | PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy |
+| **Bioinformatics** | R · Seurat · Harmony · scRNA-seq analysis |
+| **Applications & data** | FastAPI · Flask · React · SQL · Supabase |
+| **Development** | Git · GitHub · Docker · Jupyter |
+
+---
 
 <div align="center">
   <h3>Let's build something worth being curious about.</h3>
@@ -86,3 +141,4 @@ Development	Git · GitHub · Docker · Jupyter
   <p><a href="mailto:sidharthsaholiya@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/sidharthsaholiya">Connect on LinkedIn</a></p>
   <sub>One more experiment. One better question.</sub>
 </div>
+
