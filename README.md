@@ -1,6 +1,6 @@
 <!-- Custom banner: keep assets/profile-banner.png alongside this README. -->
 <div align="center">
-  <img src="https://github.com/sidharth0909/sidharth0909/blob/main/R0007136.JPG" width="100%" alt="Sidharth Saholiya — The AI × Biology Lab. AI Engineering · Agentic AI · Bioinformatics." />  <h3>Hey, I'm Sidharth</h3>
+  <img src="https://github.com/sidharth0909/sidharth0909/blob/main/R0007136.JPG" width="75%" alt="Sidharth Saholiya — The AI × Biology Lab. AI Engineering · Agentic AI · Bioinformatics." />  <h3>Hey, I'm Sidharth</h3>
   <p>I build AI applications, experiment with agents, and investigate biology one cell at a time.</p>  <a href="https://www.linkedin.com/in/sidharthsaholiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:sidharthsaholiya@gmail.com"><img src="https://img.shields.io/badge/Email-183343?style=for-the-badge&amp;logo=gmail&amp;logoColor=62EAD5" alt="Email Sidharth" /></a>
 <a href="https://github.com/sidharth0909?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-212D45?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
