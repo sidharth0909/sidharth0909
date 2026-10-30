@@ -16,7 +16,7 @@
 
 ## 01 / Meet the builder
 
-<img src="./assets/meet-the-builder.svg" width="100%" alt="My background: AI engineering, agentic systems, and bioinformatics at the University at Buffalo." />
+<img src="./meet-the-builder.svg" width="100%" alt="My background: AI engineering, agentic systems, and bioinformatics at the University at Buffalo." />
 
 <details>
 <summary><b>More about my background</b></summary>
@@ -35,7 +35,7 @@ My work connects three interests: **AI engineering**, **agentic systems**, and *
 
 ### A voice agent that can do more than talk
 
-<img src="./assets/voice-agent-workflow.svg" width="100%" alt="Caller and Twilio exchange audio with an asynchronous Python bridge and Deepgram Voice Agent; Python handles prototype pharmacy tools." />
+<img src="./voice-agent-workflow.svg" width="100%" alt="Caller and Twilio exchange audio with an asynchronous Python bridge and Deepgram Voice Agent; Python handles prototype pharmacy tools." />
 
 <details>
 <summary><b>Voice-agent details and working stack</b></summary>
@@ -56,7 +56,7 @@ I'm building a telephone voice-agent prototype that connects **Twilio Media Stre
 
 ### Mapping immune dysregulation, one cell at a time
 
-<img src="./assets/single-cell-research.svg" width="100%" alt="Skin scRNA-seq workflow: quality control, Seurat and Harmony integration, subtype annotation, and published marker comparisons." />
+<img src="./single-cell-research.svg" width="100%" alt="Skin scRNA-seq workflow: quality control, Seurat and Harmony integration, subtype annotation, and published marker comparisons." />
 
 <details>
 <summary><b>Research questions, methods, and stack</b></summary>
